@@ -1,0 +1,15 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "project": "npx tailwindcss -i ./styles/style.css -o ./styles/output.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.7"
+  }
+}
